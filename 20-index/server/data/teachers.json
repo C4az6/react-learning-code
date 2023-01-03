@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "张老师",
+    "subject": "PYTHON",
+    "like": 116
+  },
+  {
+    "id": 2,
+    "name": "陈老师",
+    "subject": "JAVA",
+    "like": 213
+  },
+  {
+    "id": 3,
+    "name": "孙老师",
+    "subject": "前端",
+    "like": 988
+  }
+]
